@@ -2,6 +2,7 @@
   "version": "1.0.0",
   "buildNumber": 1,
   "downloadUrl": "https://appanimatoo.pages.dev/app.apk",
-  "forceUpdate": false,
-  "message": "تحديث جديد متوفر!"
+  "forceUpdate": true,
+  "message": "تحديث جديد متوفر يا قحبة !"
+
 }
