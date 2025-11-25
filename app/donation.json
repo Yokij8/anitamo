@@ -1,0 +1,16 @@
+{
+  "supporters": [
+    {
+      "name": "اسم المتبرع",
+      "amount": "50\$",
+      "date": "2023-11-25",
+      "image": "https://imgur.com/a/uEfDBss"
+    },
+    {
+      "name": "متبرع آخر",
+      "amount": "100\$",
+      "date": "2023-11-24",
+      "image": "https://imgur.com/a/uEfDBss"
+    }
+  ]
+}
