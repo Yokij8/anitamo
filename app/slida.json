@@ -5,7 +5,7 @@
         {
             "id": "slide_1",
             "backgroundImageUrl": "https://images.iimg.live/images/perfect-creation-6385.webp",
-            "logoImageUrl": "https://images.iimg.live/images/prime-snap-6067.webp",
+            "logoImageUrl": "https://files.catbox.moe/7lyk9x.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "1",
             "priority": 1,
@@ -14,7 +14,7 @@
         {
             "id": "slide_2",
             "backgroundImageUrl": "https://images.iimg.live/images/vibrant-snap-2478.webp",
-            "logoImageUrl": "https://images.iimg.live/images/prime-snap-6067.webp",
+            "logoImageUrl": "https://files.catbox.moe/nri7op.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "2",
             "priority": 2,
@@ -23,7 +23,7 @@
         {
             "id": "slide_3",
             "backgroundImageUrl": "https://images.iimg.live/images/glorious-photography-5951.webp",
-            "logoImageUrl": "https://example.com/logo3.png",
+            "logoImageUrl": "https://files.catbox.moe/ugq4lo.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "3",
             "priority": 3,
@@ -32,7 +32,7 @@
                 {
             "id": "slide_4",
             "backgroundImageUrl": "https://images.iimg.live/images/awesome-collection-3254.webp",
-            "logoImageUrl": "https://example.com/logo3.png",
+            "logoImageUrl": "https://files.catbox.moe/olj3xl.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "3",
             "priority": 3,
@@ -40,4 +40,5 @@
         }
     ]
 }
+
 
