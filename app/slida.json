@@ -1,11 +1,11 @@
 {
-    "version": "1.0.1",
-    "lastUpdated": "2025-12-03T05:11:00Z",
+    "version": "1.0.2",
+    "lastUpdated": "2025-12-03T05:22:00Z",
     "items": [
         {
             "id": "slide_1",
-            "backgroundImageUrl": "https://images.iimg.live/images/perfect-creation-6385.webp",
-            "logoImageUrl": "https://files.catbox.moe/7lyk9x.png",
+            "backgroundImageUrl": "https://images.iimg.live/images/cool-capture-8307.webp",
+            "logoImageUrl": "https://files.catbox.moe/k84twe.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "1",
             "priority": 1,
@@ -40,5 +40,6 @@
         }
     ]
 }
+
 
 
