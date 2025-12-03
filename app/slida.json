@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0",
-    "lastUpdated": "2025-12-03T05:00:00Z",
+    "version": "1.0.1",
+    "lastUpdated": "2025-12-03T05:11:00Z",
     "items": [
         {
             "id": "slide_1",
-            "backgroundImageUrl": "https://images.iimg.live/images/spectacular-photo-1034.webp",
+            "backgroundImageUrl": "https://images.iimg.live/images/perfect-creation-6385.webp",
             "logoImageUrl": "https://images.iimg.live/images/prime-snap-6067.webp",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "1",
@@ -13,21 +13,31 @@
         },
         {
             "id": "slide_2",
-            "backgroundImageUrl": "https://images.iimg.live/images/vibrant-view-9103.webp",
+            "backgroundImageUrl": "https://images.iimg.live/images/vibrant-snap-2478.webp",
             "logoImageUrl": "https://images.iimg.live/images/prime-snap-6067.webp",
-            "text": "أنمي جديد ومثير - شاهد الآن!",
+            "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "2",
             "priority": 2,
             "isActive": true
         },
         {
             "id": "slide_3",
-            "backgroundImageUrl": "https://example.com/background3.jpg",
+            "backgroundImageUrl": "https://images.iimg.live/images/glorious-photography-5951.webp",
             "logoImageUrl": "https://example.com/logo3.png",
-            "text": "الموسم الثاني - حلقات جديدة كل أسبوع",
+            "text": "الحلقة 21 - 2025 - 8.12 ⭐",
+            "animeId": "3",
+            "priority": 3,
+            "isActive": true
+        },
+                {
+            "id": "slide_4",
+            "backgroundImageUrl": "https://images.iimg.live/images/awesome-collection-3254.webp",
+            "logoImageUrl": "https://example.com/logo3.png",
+            "text": "الحلقة 21 - 2025 - 8.12 ⭐",
             "animeId": "3",
             "priority": 3,
             "isActive": true
         }
     ]
 }
+
