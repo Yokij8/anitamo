@@ -1,13 +1,13 @@
 {
-    "version": "1.0.2",
-    "lastUpdated": "2025-12-03T05:22:00Z",
+    "version": "1.0.3",
+    "lastUpdated": "2025-12-03T05:25:00Z",
     "items": [
         {
             "id": "slide_1",
             "backgroundImageUrl": "https://images.iimg.live/images/cool-capture-8307.webp",
             "logoImageUrl": "https://files.catbox.moe/k84twe.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
-            "animeId": "1",
+            "animeId": "2441",
             "priority": 1,
             "isActive": true
         },
@@ -16,30 +16,40 @@
             "backgroundImageUrl": "https://images.iimg.live/images/vibrant-snap-2478.webp",
             "logoImageUrl": "https://files.catbox.moe/nri7op.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
-            "animeId": "2",
+            "animeId": "2485",
             "priority": 2,
             "isActive": true
         },
         {
             "id": "slide_3",
-            "backgroundImageUrl": "https://images.iimg.live/images/glorious-photography-5951.webp",
+            "backgroundImageUrl": "https://images.iimg.live/images/perfect-capture-3491.webp",
             "logoImageUrl": "https://files.catbox.moe/ugq4lo.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
-            "animeId": "3",
+            "animeId": "2472",
             "priority": 3,
             "isActive": true
         },
-                {
+        {
             "id": "slide_4",
-            "backgroundImageUrl": "https://images.iimg.live/images/awesome-collection-3254.webp",
+            "backgroundImageUrl": "https://images.iimg.live/images/brilliant-work-3828.webp",
             "logoImageUrl": "https://files.catbox.moe/olj3xl.png",
             "text": "الحلقة 21 - 2025 - 8.12 ⭐",
-            "animeId": "3",
+            "animeId": "2487",
+            "priority": 3,
+            "isActive": true
+        },
+        {
+            "id": "slide_4",
+            "backgroundImageUrl": "https://images.iimg.live/images/wonderful-portfolio-1332.webp",
+            "logoImageUrl": "https://files.catbox.moe/bml3dp.png",
+            "text": "الحلقة 21 - 2025 - 8.12 ⭐",
+            "animeId": "2334",
             "priority": 3,
             "isActive": true
         }
     ]
 }
+
 
 
 
